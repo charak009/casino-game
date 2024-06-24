@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660113306 source:c:\projects codeblocks\oops open ended\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
